@@ -1,0 +1,12 @@
+{
+    "name": "angular-firebase-auth",
+    "version": "1.0.0",
+    "dependencies": {
+        "@angular/core": "^13.0.0",
+        "@angular/fire": "^7.0.0",
+        "firebase": "^9.0.0"
+    },
+    "scripts": {
+        "start": "ng serve"
+    }
+}
